@@ -1,2 +1,2 @@
-# Lets-Plan-a-Trip
+# Lets Plan a Trip
 # https://letsplanatrip.azurewebsites.net/
